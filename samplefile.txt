@@ -1,2 +1,0 @@
-Sample test file for Jenkins pipeline 
-Second line 
