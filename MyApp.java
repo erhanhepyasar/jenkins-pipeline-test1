@@ -4,5 +4,6 @@ class MyApp {
         System.out.println("Lets try again");
         System.out.println("-----Last line added -----");
         System.out.println("----- I was kidding :) -----");
+        System.out.println("----- Hello again -----");
     }
 }
